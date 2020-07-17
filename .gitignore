@@ -1,0 +1,13 @@
+Debug
+Release
+cmake
+build
+bin
+output
+*.ncb
+*.dmp
+*.suo
+*.user
+*.config
+*.VC.db
+*.VC.opendb
