@@ -1,4 +1,5 @@
 # JD_LOG
+* 基于spdlog封装了一套log日志库
 
 ## jd_log目录结构
 ```
